@@ -119,14 +119,3 @@ SELECT * FROM Orders;
 SELECT * FROM Payments;
 ```
 
----
-
-## 📘 Notes
-- `customer_id = 6` was removed to prevent foreign key constraint errors.
-- All joins are written to help practice typical real-world join scenarios.
-- You can run this on SQL Server, MySQL (with syntax tweaks), or PostgreSQL.
-
----
-
-## 📂 License
-Free to use for learning and educational purposes.
